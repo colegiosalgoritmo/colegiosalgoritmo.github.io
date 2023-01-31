@@ -1,0 +1,56 @@
+body{
+    background-color: white;
+}
+header{
+    width: 300px;
+    height: 120px ;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 10px;
+    
+}
+article{
+
+    margin: 20px;
+
+}
+aside{
+
+    margin: 20px;  
+
+}
+.posicion{
+  
+}
+.container-fluid{
+    background-color: white;
+}
+
+/*ir a mi perfil - salir*/
+.perfil{
+    font-size: 10px;
+    color:rgb(0, 0, 255);
+}
+
+.navbar-nav{
+    
+    background: linear-gradient(to bottom,rgb(0, 0, 70),white);
+    border-radius: 5px;
+    padding: 20px;
+    margin-inline: 30px;
+}
+.nav-item{
+    font-size: 15px;
+    text-align: center;
+    
+}
+
+/* texto */
+.nav-link{
+    color: aqua;
+}
+
+nav{
+    padding-left: 20px;
+    padding-right: 20px;
+}
